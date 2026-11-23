@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Notifica.20c1c94e\\x64\\Debug\\Source.obj",
+            "outputs": [
+                "Notifica.20c1c94e\\x64\\Debug\\Source.cpp.obj.dt.module.json",
+                "Notifica.20c1c94e\\x64\\Debug\\Source.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

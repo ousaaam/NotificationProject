@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Notifica.20c1c94e\\x64\\Debug\\NotificationEmail.obj",
+            "outputs": [
+                "Notifica.20c1c94e\\x64\\Debug\\NotificationEmail.h.obj.dt.module.json",
+                "Notifica.20c1c94e\\x64\\Debug\\NotificationEmail.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

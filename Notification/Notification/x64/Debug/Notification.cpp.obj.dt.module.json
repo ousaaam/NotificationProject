@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Notification\\x64\\Debug\\Notification.obj",
+            "outputs": [
+                "Notification\\x64\\Debug\\Notification.cpp.obj.dt.module.json",
+                "Notification\\x64\\Debug\\Notification.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
